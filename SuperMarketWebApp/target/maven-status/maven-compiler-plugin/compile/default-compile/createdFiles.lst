@@ -1,0 +1,7 @@
+com\mycompany\superapp\ProductAddController.class
+com\mycompany\superapp\LoginController.class
+com\mycompany\superapp\filter\JspFilter.class
+com\mycompany\superapp\ErrorController.class
+com\mycompany\superapp\ProductDetailController.class
+com\mycompany\superapp\filter\SecurityFilter.class
+com\mycompany\superapp\ProductController.class
